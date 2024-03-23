@@ -1,1 +1,0 @@
-/Users/haru256/Documents/books/rust-programming-language-2nd/projects/guessing_game/target/debug/guessing_game: /Users/haru256/Documents/books/rust-programming-language-2nd/projects/guessing_game/src/main.rs
